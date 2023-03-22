@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <records>
+    <Record>
+      <name>Семчишин Илья Витальевич</name>
+      <recordtype>Доход от инвестиций</recordtype>
+      <amountofmoney>16000</amountofmoney>
+      <deduction>false</deduction>
+      <date>2022-12-30T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Узунов Степан Федорович</name>
+      <recordtype>Доход от продажи криптовалюты</recordtype>
+      <amountofmoney>40000</amountofmoney>
+      <deduction>false</deduction>
+      <date>2023-04-01T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Корсунов Роман Владимирович</name>
+      <recordtype>Доход от продажи видеокарт</recordtype>
+      <amountofmoney>50000</amountofmoney>
+      <deduction>false</deduction>
+      <date>2022-12-05T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Перевезенцев Матвей Валерьевич</name>
+      <recordtype>Налоговый вычет</recordtype>
+      <amountofmoney>17800</amountofmoney>
+      <deduction>true</deduction>
+      <date>2023-01-01T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Семчишин Степан Витальевич</name>
+      <recordtype>Налоговый вычет</recordtype>
+      <amountofmoney>15900</amountofmoney>
+      <deduction>true</deduction>
+      <date>2022-12-05T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Мелехов Антон Вадимович</name>
+      <recordtype>Доход от работодателя</recordtype>
+      <amountofmoney>19000</amountofmoney>
+      <deduction>false</deduction>
+      <date>2022-12-05T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Семчишин Виталий Степанович</name>
+      <recordtype>Доход от крупных инвестиций</recordtype>
+      <amountofmoney>36000</amountofmoney>
+      <deduction>false</deduction>
+      <date>2022-12-05T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Иванов Алексей Антонович</name>
+      <recordtype>Налоговый вычет</recordtype>
+      <amountofmoney>130000</amountofmoney>
+      <deduction>true</deduction>
+      <date>2023-04-01T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Ваганова Наталья Сергеевна</name>
+      <recordtype>Вычет из Гос.Преприятия</recordtype>
+      <amountofmoney>40500</amountofmoney>
+      <deduction>true</deduction>
+      <date>2022-12-05T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Кирсанов Егор Владимирович</name>
+      <recordtype>Доход от вклада в банк</recordtype>
+      <amountofmoney>38000</amountofmoney>
+      <deduction>false</deduction>
+      <date>2022-12-05T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Солдатов Вячеслав Павлович</name>
+      <recordtype>Налоговый вычет из-за неуплаты долгов</recordtype>
+      <amountofmoney>43900</amountofmoney>
+      <deduction>true</deduction>
+      <date>2022-12-05T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Сайдашев Тимофей Вадимович</name>
+      <recordtype>Вычет из-за неуплаты кредита</recordtype>
+      <amountofmoney>22000</amountofmoney>
+      <deduction>true</deduction>
+      <date>2023-01-01T00:00:00</date>
+    </Record>
+    <Record>
+      <name>Борисова Елена Владимировна</name>
+      <recordtype>Доход от пенсии</recordtype>
+      <amountofmoney>18000</amountofmoney>
+      <deduction>false</deduction>
+      <date>2022-12-05T00:00:00</date>
+    </Record>
+  </records>
+  <recordTypes>
+    <string>Налоговый вычет</string>
+    <string></string>
+    <string>Доход от продажи криптовалюты</string>
+    <string>Доход от продажи видеокарт</string>
+    <string>Доход от работодателя</string>
+    <string>Доход от крупных инвестиций</string>
+    <string>Налоговый вычет из-за неуплаты долгов</string>
+    <string>Вычет из Гос.Преприятия</string>
+    <string>Доход от вклада в банк</string>
+    <string>Вычет из-за неуплаты кредита</string>
+    <string>Доход от поставок новогодних игрушек</string>
+    <string>Налоговый вычет</string>
+  </recordTypes>
+  <dates>
+    <dateTime>2022-12-30T00:00:00</dateTime>
+    <dateTime>2023-04-01T00:00:00</dateTime>
+    <dateTime>2022-12-05T00:00:00</dateTime>
+    <dateTime>2023-01-01T00:00:00</dateTime>
+  </dates>
+</AllData>
